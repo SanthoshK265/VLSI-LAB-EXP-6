@@ -239,7 +239,7 @@ To design the following circuits using Cadence Virtuoso
   
      1.Stop time =400n
 
-    ![image](https://github.com/SanthoshK265/VLSI-LAB-EXP-6/assets/143738585/9add6c1b-6ed3-4b72-9177-eb229c1e32d9)
+![image](https://github.com/SanthoshK265/VLSI-LAB-EXP-6/assets/143738585/9add6c1b-6ed3-4b72-9177-eb229c1e32d9)
 
 
  ## RESULT:
