@@ -1,4 +1,8 @@
-# VLSI-LAB-EXP-6
+EXP-6
+
+DATE:
+
+ANALOG DESIGN OF INVERTER, NOR AND NAND GATE USING VIRTUOSO
 
 ## AIM :
 To design the following circuits using Cadence Virtuoso
